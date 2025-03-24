@@ -1,0 +1,132 @@
+body {
+    background-color: black;
+
+}
+
+
+.head1 {
+    height: 450px;
+
+}
+
+.head1 {
+    background-image: url(IMG/Studio.jpg);
+    background-repeat: no-repeat;
+    background-position: top 40px;
+    background-size: cover;
+
+}
+
+.about {
+    font-family: sans-serif;
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+
+}
+.p1 {
+    font-family: sans-serif;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.titulo {
+    padding-top: 280px;
+
+}
+.img1{
+    width: 500px;
+    height: auto;
+    padding-left: 80px;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.img2 {
+    width: 800px;
+    height: auto;
+    object-fit: cover;
+    padding-right: 70px;
+    border-radius: 5%;
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.7);
+}
+
+.media {
+    display: flex;
+    gap: 0px;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+
+.contenedor {
+    text-align: center;
+}
+
+.contenedor1 {
+    text-align: center;
+}
+
+.kev {
+    width: 500px;
+    height: auto;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+}
+.miis {
+    display: inline-flex;
+    transition: transform 0.3 ease-in-out;
+}
+
+
+
+.miis {
+    
+    width: 400px;
+    height: auto;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+   
+
+}
+
+.media1 {
+    text-align: center;
+}
+
+.Instahead1 {
+    font-family: sans-serif;
+}
+
+.instagrampic {
+    display: inline-block;
+    transition: transform 0.3 ease;
+    text-align: center;
+}
+.instagrampic img {
+
+    padding: 4px;
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.instagrampic:hover {
+    transform: scale(1.2);
+}
+.icon {
+    border-radius: 3px;
+}
+
+.iconos {
+    display: flex;
+   justify-content: center;
+
+}
